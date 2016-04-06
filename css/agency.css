@@ -266,7 +266,7 @@ header {
 
 header .intro-text {
     padding-top: 100px;
-    padding-bottom: 50px
+    padding-bottom: 25px;
 }
 
 header .intro-text .intro-lead-in {
@@ -274,7 +274,7 @@ header .intro-text .intro-lead-in {
     font-style: italic;
     font-size: 22px;
     line-height: 22px;
-    margin-bottom: 25px
+    margin-bottom: 100px;
 }
 
 header .intro-text .intro-heading {
@@ -283,7 +283,7 @@ header .intro-text .intro-heading {
     font-weight: 700;
     font-size: 50px;
     line-height: 50px;
-    margin-bottom: 50px
+    margin-bottom: 25px;
 }
 
 @media (min-width:768px) {
@@ -296,7 +296,7 @@ header .intro-text .intro-heading {
         font-style: italic;
         font-size: 40px;
         line-height: 40px;
-        margin-bottom: 25px
+        margin-bottom: 100px;
     }
     header .intro-text .intro-heading {
         font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
