@@ -626,68 +626,68 @@ aside.clients img {
     margin: 50px auto
 }
 
-section#contact {
+section#contato {
     background-color: #222;
     background-image: url(../img/map-image.png);
     background-position: center;
     background-repeat: no-repeat
 }
 
-section#contact .section-heading {
+section#contato .section-heading {
     color: #fff
 }
 
-section#contact .form-group {
+section#contato .form-group {
     margin-bottom: 25px
 }
 
-section#contact .form-group input,
-section#contact .form-group textarea {
+section#contato .form-group input,
+section#contato .form-group textarea {
     padding: 20px
 }
 
-section#contact .form-group input.form-control {
+section#contato .form-group input.form-control {
     height: auto
 }
 
-section#contact .form-group textarea.form-control {
+section#contato .form-group textarea.form-control {
     height: 236px
 }
 
-section#contact .form-control:focus {
+section#contato .form-control:focus {
     border-color: #20DD72;
     box-shadow: none
 }
 
-section#contact::-webkit-input-placeholder {
+section#contato::-webkit-input-placeholder {
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: 700;
     color: #bbb
 }
 
-section#contact:-moz-placeholder {
+section#contato:-moz-placeholder {
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: 700;
     color: #bbb
 }
 
-section#contact::-moz-placeholder {
+section#contato::-moz-placeholder {
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: 700;
     color: #bbb
 }
 
-section#contact:-ms-input-placeholder {
+section#contato:-ms-input-placeholder {
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: 700;
     color: #bbb
 }
 
-section#contact .text-danger {
+section#contato .text-danger {
     color: #e74c3c
 }
 
