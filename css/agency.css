@@ -289,9 +289,25 @@ header .intro-text .intro-heading {
     margin-bottom: 25px;
 }
 
+/* Little Hack */
+
+@media (min-width: 768px) and (max-width: 995px) {
+    .navbar-nav>li>a {
+        padding: 15px 13px !important;
+    }
+
+    .large-buttons{
+        display: none !important;
+    }
+
+    .small-buttons{
+        display: inherit !important;
+    }
+}
+
 @media (min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
+        /* padding-top: 300px; */
         padding-bottom: 200px
     }
     header .intro-text .intro-lead-in {
