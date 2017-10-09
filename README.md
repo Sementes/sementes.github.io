@@ -5,13 +5,13 @@ open-source, e é por acreditar nisso que utilizamos a incrível plataforma GitH
 o mesmo, nossa licença é GPL, então sinta-se a vontade para utilizar a mesma como template caso
 seja do seu interesse.
 
-Acesse [http://sementes.co/](Sementes Homepage), em https://sementes.co .
+Acesse [Sementes Homepage](http://sementes.github.io/), em http://sementes.github.io/ .
 
 --
 <p align="center">
     <b>Sementes - Plantando bons hábitos</b></br>
     <i>#SomosTodosSementes</i></br></br>
     Developed by </br>
-  <img alt="Sementes Soluções em Ecologia" width="350" src="/imgs/sementes-logo.png?raw=true"/>
+  <img alt="Sementes Soluções em Ecologia" width="350" src="/img/sementes-logo.png?raw=true"/>
 </p>
 
